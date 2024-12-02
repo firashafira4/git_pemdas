@@ -1,0 +1,52 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="WwoQwfmbeX9JPFcbBlil">
+    <mxGraphModel dx="880" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1972" pageHeight="988" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-1" value="Pengelolaan&lt;div&gt;Registrasi&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-4" value="Koordinasi TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="190" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-5" value="Seminar TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-6" value="Pembimgbing TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-7" value="Sidang TA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-23" value="Pengelolaan&amp;nbsp;&lt;div&gt;Data Master&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-26" value="Mahasiswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-27" value="Dosen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-28" value="Mahasiswa" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="BE_Xc_fDtBHNQUnj50oX-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="380" as="sourcePoint" />
+            <mxPoint x="170" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BE_Xc_fDtBHNQUnj50oX-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="464.5" as="sourcePoint" />
+            <mxPoint x="200" y="464.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
